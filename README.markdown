@@ -1,3 +1,5 @@
+<object data="no-break.svg?raw=true" height="100 width="142"></object>
+
 # Infrangible
 
 This is a [Ruby](https://www.ruby-lang.org/) script to automatically insert [non-breaking spaces](https://en.wikipedia.org/wiki/Non-breaking_space) between certain words.
