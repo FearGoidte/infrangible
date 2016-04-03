@@ -1,4 +1,4 @@
-<object data="no-break.svg?raw=true" height="100 width="142"></object>
+<object data="/blob/master/no-break.svg?raw=true" height="100 width="142"></object>
 
 # Infrangible
 
