@@ -1,3 +1,4 @@
 # Ignore original Perl script
 versenobr.pl
 notes.markdown
+.rubocop.yml
