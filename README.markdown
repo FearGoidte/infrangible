@@ -1,5 +1,7 @@
 ﻿# Infrangible
 
+![](https://cdn.rawgit.com/FearGoidte/infrangible/master/logo.svg)
+
 A <dfn>non-breaking space</dfn> is the same width as a normal space, but prevents the text from flowing to a new line or page. It is an invisible glue between the words on either side.
 
 This is a [Ruby](https://www.ruby-lang.org/) extension for the [Middleman](https://middlemanapp.com) static website generator to automate the insertion of [non-breaking spaces](https://en.wikipedia.org/wiki/Non-breaking_space) between certain words.
